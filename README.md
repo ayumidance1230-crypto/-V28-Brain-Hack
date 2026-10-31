@@ -10,7 +10,7 @@ License: MIT Open Source License (Free and open to all humanity)
 
 The black box (hermetically sealed studio) required to fully drive this system must be constructed under the following strict physical and structural conditions:
 • Complete Sealing and Visual Closure (Invisible): A completely dark space where all external linguistic noise and light are 100% blocked.
-• Optimal Ceiling Height: [3.5 Meters to 3.5 Meters] This is the absolute distance based on fluid mechanics required for the colorant drops released from the pressurized ceiling plate to reach a terminal collision velocity of approximately 7.0 m/s to 8.8 m/s. This minimum 4.5-meter free-fall distance allows the trajectory of the drops to fluctuate unpredictably due to acoustic pressure, generating perfect chaos on the canvas.
+• Optimal Ceiling Height: [3.5 Meters to 3.5 Meters] This is the absolute distance based on fluid mechanics required for the colorant drops released from the pressurized ceiling plate to reach a terminal collision velocity of approximately 6.5 m/s to 7.5m/s. This minimum 3.5-meter free-fall distance allows the trajectory of the drops to fluctuate unpredictably due to acoustic pressure, generating perfect chaos on the canvas.
 
 2. Execution Process: Neuro-Automatism Technique
 
