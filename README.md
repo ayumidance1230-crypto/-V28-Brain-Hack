@@ -23,7 +23,7 @@ An automated lifecourse architecture that treats the living organism (the physic
 • [Phase 2: Fully Automated, Contingent Colorant Replenishment via Capillary Action] An automated replenishment architecture that eliminates the conscious act of "going to refill paint," allowing the body to absorb colorants through pure environmental reaction.
 	• Hundreds of shape-memory hemp fibers attached from the fingertips to the elbows absorb and replenish colorants automatically through capillary action, driven solely by the physical body dancing through the space.
 	• A semi-permeable membrane layer inside the protective suit allows the captured colorants to make cool, physical contact with the skin. This subtle tactile stimulus directly hacks the autonomic nervous system, forcing the brain into a state of wild flow (the primal zone).
-• [Phase 3: Automated Imprinting via Somatic Filtration Splash] "Sound resonates ➔ Body dances ➔ Body automatically absorbs colorant ➔ Centrifugal force violently flings colorant onto the 4m x 4m canvas." The physical body becomes an extension of the architectural apparatus, imprinting 100% pure somatic traces without ever touching the canvas surface.
+• [Phase 3: Automated Imprinting via Somatic Filtration Splash] "Sound resonates ➔ Body dances ➔ Body automatically absorbs colorant ➔ Centrifugal force violently flings colorant onto the 3.5m x 3.5m canvas." The physical body becomes an extension of the architectural apparatus, imprinting 100% pure somatic traces without ever touching the canvas surface.
 
 3. Basic Patent: Commercial Versatility of the Acoustic-Linked Pressurized Dripping System
 
@@ -55,7 +55,7 @@ By releasing all mechanisms as open-source property for all humanity, the system
 
 本システムを完全駆動させるためのブラックボックス（密閉スタジオ）は、以下の物理的・構造的スケールを絶対条件として設計される。
 • 空間の完全密閉と視覚閉鎖（インビジブル）：外部からの言語的ノイズおよび光を100%遮断した完全な暗闇空間。
-• 最適なる天井高：【3.5メートル 〜 3.5メートル】天井の加圧滴下プレートから放出される色材の滴が、自由落下によって衝突速度（約6.5m/s 〜 7.5m/s）に達し、キャンバスへ向かって最も鮮烈に弾け飛ぶための、流体力学に基づいた絶対的距離。4m以上の自由落下距離があるからこそ、空間内で色材の軌道が音圧によって偶発的にゆらぎ、完璧なカオスが生成される。
+• 最適なる天井高：【3.5メートル 〜 3.5メートル】天井の加圧滴下プレートから放出される色材の滴が、自由落下によって衝突速度（約6.5m/s 〜 7.5m/s）に達し、キャンバスへ向かって最も鮮烈に弾け飛ぶための、流体力学に基づいた絶対的距離。3.5m以上の自由落下距離があるからこそ、空間内で色材の軌道が音圧によって偶発的にゆらぎ、完璧なカオスが生成される。
 
 2. 駆動プロセス：ニューロ・オートマティズム技法
 
